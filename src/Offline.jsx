@@ -17,8 +17,8 @@ const OfflinePage = () => {
           d="M4 4l40 40M12.48 12.48A19.938 19.938 0 004 24m9.14 9.14A11.978 11.978 0 0112 24m24 0a11.978 11.978 0 01-1.14 5.14M18 30a6 6 0 0112 0"
         />
       </svg>
-      <h1 className="text-2xl font-semibold text-gray-800 mb-2">You're Offline</h1>
-      <p className="text-gray-600 mb-6">Please check your internet connection and try again.</p>
+      <h1 className="text-2xl font-semibold text-gray-800 mb-2">even if you off-line you can get our contact</h1>
+      <p className="text-gray-600 mb-6">give us a call on: +27 663973313</p>
       <button
         onClick={() => window.location.reload()}
         className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition"
